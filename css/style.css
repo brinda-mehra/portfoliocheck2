@@ -252,6 +252,7 @@ nav a:hover{
 .btn {
     border: 1px solid black; 
     background-color:rgb(218, 173, 230);
+    color:black;
     margin:5%;
     margin-top: 1%;
     padding: 10px;
